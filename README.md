@@ -2,57 +2,59 @@
 
 <div align="center">
   <h1>Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Sharda Prasad Maurya</h1>
-  <h3>Software Developer | Backend Enthusiast | Lifelong Learner</h3>
+  <h3>Software Developer</h3>
 </div>
 
 ---
 
-### 💼 Experience
+### 💼 About Me
 
-- **Backend Developer Intern @ Wavetech** (Dec 2024 – Mar 2025)  
-  Developed scalable backend systems using Django and FastAPI for a B2B platform.
-
----
+- 👨‍💻 I'm a passionate backend developer who enjoys building scalable and reliable systems.
+- 📄 **Resume**: <a href="https://drive.google.com/file/d/1cuRxELKNHu-cyPrEqHfvdrceOxvOeo3j/view?usp=sharing
+" target="_blank"><img src="https://img.shields.io/badge/View%20Resume-000000?style=flat&logo=read-the-docs&logoColor=#0000FF" alt="Resume" /></a>
+- 💼 **Backend Developer Intern @ Wavetech** (Dec 2024 – Mar 2025)  
+  Developed backend systems using **Django** and **FastAPI** for a B2B SaaS platform.
+- 🧰 **Tech Stack**: Python · Django · MySQL · React
 
 ## 💻 Tech Stack
 
-### Languages & Frameworks
-- Python  
-- SQL  
-- Django  
-- FastAPI  
-- React
+<div align="center">
 
-### Tools & Cloud
-- Docker  
-- AWS  
-- Git  
-- VS Code
+<table>
+  <tr>
+    <td>Python</td>
+    <td>C++</td>
+    <td>SQL</td>
+    <td>Django</td>
+    <td>FastAPI</td>
+    <td>MySQL</td>
+    <td>React</td>
+    <td>sklearn</td>
+    <td>ML Models</td>
+    <td>Docker</td>
+    <td>AWS</td>
+  </tr>
+</table>
 
----
 
-## 🔗 Connect with Me
-
-- LinkedIn: [linkedin.com/in/sharda42570](https://www.linkedin.com/in/sharda42570)  
-- GitHub: [github.com/sharda2312](https://github.com/sharda2312)  
-- LeetCode: [leetcode.com/u/shardamaurya42570](https://leetcode.com/u/shardamaurya42570/)  
-- Email: [shardamaurya.work@gmail.com](mailto:shardamaurya.work@gmail.com)
-
----
-
-## 📄 Resume
-
-[View My Resume](RESUME_LINK_HERE)
+</div>
 
 ---
+
 
 ## 🔨 Projects
 
-- **AcademIQ**  
+- **AcademIQ**   <a href="https://github.com/sharda2312/academiq" target="_blank">
+    <button>Link</button>
+  </a>
+  
   A full-stack quiz platform with AI-generated quizzes, timer-based tests, and analytics.  
   *(Django, DRF, MySQL)*
 
-- **Delhi House Price Prediction**  
+- **Delhi House Price Prediction** <a href="https://github.com/sharda2312/delhi-house-price-prediction" target="_blank">
+    <button>Link</button>
+  </a>
+  
   Real-time ML-powered API using FastAPI and AWS Lambda.  
   *(FastAPI, Scikit-learn, AWS)*
 
@@ -61,3 +63,27 @@
 ## 💬 Dev Quote of the Day
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🔗 Connect with Me
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/sharda42570" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/sharda2312" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://leetcode.com/u/shardamaurya42570/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+
+  <a href="mailto:shardamaurya.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+---
+
