@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 
-- 👨‍💻 I'm a passionate backend developer who enjoys building scalable and reliable systems.
+- 👨‍💻 I'm a passionate Software developer who enjoys building scalable and reliable systems.
 - 📄 **Resume**: <a href="https://drive.google.com/file/d/1cuRxELKNHu-cyPrEqHfvdrceOxvOeo3j/view?usp=sharing
 " target="_blank"><img src="https://img.shields.io/badge/View%20Resume-000000?style=flat&logo=read-the-docs&logoColor=#0000FF" alt="Resume" /></a>
 - 💼 **Backend Developer Intern @ Wavetech** (Dec 2024 – Mar 2025)  
